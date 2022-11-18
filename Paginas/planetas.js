@@ -30,3 +30,4 @@ function fondo5() {
   document.body.style.background = " url('../imagenes/fondo6.jpeg')  ";
 }
 
+
